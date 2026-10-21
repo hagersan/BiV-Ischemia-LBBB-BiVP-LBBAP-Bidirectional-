@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Simulation results
+*.h5
+*.hdf5
+*.xdmf
+*.pvd
+*.vtu
+*.vtk
+
+# Temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+heArt-biv-crt-ischemia.zip
