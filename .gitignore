@@ -6,8 +6,6 @@ __pycache__/
 venv/
 
 # Simulation results
-*.h5
-*.hdf5
 *.xdmf
 *.pvd
 *.vtu
